@@ -1,0 +1,2 @@
+# HOUSE-PRICE-PREDICTION-USING-LINEAR-REGRESSION
+This model will predict the price of the house using the previous prices of land. when the customers enters the square feet area of the land then the cost of the land is predicted. even in the code there is the proof of price which is predicted is true using the formula y=m*x+b , where m is the slope ,b is the intersection and x is the entered square feet area of the land.
